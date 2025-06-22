@@ -52,3 +52,15 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# CSS
+*.min.css
+*.rtl.css
+*.map
+
+# JS
+*.bundle.js
+*.bundle.min.js
+*.esm.js
+*.esm.min.js
+*.min.js
